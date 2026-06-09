@@ -1,6 +1,6 @@
 # CRM Project - Frontend Documentation
 
-This document provides an overview of the frontend part of our Customer Relationship Management (CRM) system. It is designed to be simple and easy to explain to teachers.
+This document provides an overview of the frontend part of our Customer Relationship Management (CRM) system. It is designed to be simple.
 
 ## 🚀 Overview
 The frontend is a modern, responsive web application built using **React**. It serves as the user interface for employees and admins to manage customers, leads, and interactions.
